@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf89bb0f-c83f-4f98-afc1-d48de61526ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1brKnwjxW5njQ8eyQtJAmRJoVaJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Winter" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.fsm.frontend.Utils.ClientUtils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\salih\Documents\NetBeansProjects\ClientUI\src\main\java\com\fsm\frontend\Ekranlar\SifreGuncelleme" />
+      <recent name="C:\Users\salih\Documents\NetBeansProjects\ClientUI\src\main\java\com\fsm\frontend\Ekranlar\SatilanUrunler" />
+      <recent name="C:\Users\salih\Documents\NetBeansProjects\ClientUI\src\main\java\com\fsm\frontend\Ekranlar\Muzayede" />
+      <recent name="C:\Users\salih\Documents\NetBeansProjects\ClientUI\src\main\java\com\fsm\frontend\Ekranlar\MevcutUrunler" />
+      <recent name="C:\Users\salih\Documents\NetBeansProjects\ClientUI\src\main\java\com\fsm\frontend\Ekranlar\KullaniciBilgileri" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fsm.frontend.Utils" />
+      <recent name="com.fsm.frontend.Objects.Message" />
+      <recent name="com.fsm.frontend.Objects.Auction" />
+      <recent name="com.fsm.frontend.Objects.DAO" />
+      <recent name="com.fsm.frontend.Enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\salih\Documents\NetBeansProjects\ClientUI\src\main\java\com\fsm\frontend\Objects\User" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GirisEkrani">
+    <configuration name="GirisEkrani" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsm.frontend.Ekranlar.GirisEkrani.GirisEkrani" />
+      <module name="ClientUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsm.frontend.Ekranlar.GirisEkrani.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpDeneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsm.frontend.Utils.HttpDeneme" />
+      <module name="ClientUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsm.frontend.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPDeneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsm.frontend.Utils.UDPDeneme" />
+      <module name="ClientUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsm.frontend.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GirisEkrani" />
+      <item itemvalue="Application.HttpDeneme" />
+      <item itemvalue="Application.UDPDeneme" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GirisEkrani" />
+        <item itemvalue="Application.UDPDeneme" />
+        <item itemvalue="Application.HttpDeneme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf89bb0f-c83f-4f98-afc1-d48de61526ab" name="Default Changelist" comment="" />
+      <created>1589384942519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589384942519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589724301132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589724301132" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1589734892434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589734892434" />
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1589385231467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1589385231467" />
+    <state x="485" y="122" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1589664603858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="122" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1589664603858" />
+    <state x="472" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589634227274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1589634227274" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589711298178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589711298178" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589795361674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589795361674" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589739196063" />
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom" timestamp="1589800402187">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589795382801" />
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589800402187" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589753500333" />
+    <state width="1877" height="210" key="GridCell.Tab.0.center" timestamp="1589800402187">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589795382801" />
+    <state width="1877" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589800402187" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589753500333" />
+    <state width="1877" height="210" key="GridCell.Tab.0.left" timestamp="1589800402187">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589795382801" />
+    <state width="1877" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589800402187" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589753500333" />
+    <state width="1877" height="210" key="GridCell.Tab.0.right" timestamp="1589800402187">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589795382801" />
+    <state width="1877" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589800402187" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589753500333" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1589753500334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589753500334" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1589753500334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589753500334" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1589753500333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589753500333" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1589753500334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589753500334" />
+    <state x="973" y="366" key="ReplaceDuplicatesPrompt" timestamp="1589576013531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="973" y="366" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1589576013531" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1589584917973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589584917973" />
+    <state x="996" y="262" width="538" height="495" key="extract.method.dialog" timestamp="1589732045258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="996" y="262" width="538" height="495" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1589732045258" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1589718378018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1589718378018" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589732561849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589732561849" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589733777320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589733777320" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>328</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="btnCikisYapActionPerformed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>335</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="btnGonderActionPerformed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>344</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="prepareForLogout">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>375</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="sendPriceUpdatedEvent">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>424</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="initializeConnection">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>434</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="listen">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>450</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="processMessage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>466</line>
+          <properties class="com.fsm.frontend.Ekranlar.Muzayede.MuzayedeEkrani" method="applyPriceUpdate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsm/frontend/Ekranlar/Muzayede/MuzayedeEkrani.java</url>
+          <line>431</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

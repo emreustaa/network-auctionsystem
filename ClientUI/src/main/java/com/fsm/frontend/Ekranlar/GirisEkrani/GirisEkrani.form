@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,56,0,0,2,34"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignCardLayout"/>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="PanelGiris">
+      <Properties>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Default Cursor"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignCardLayout" value="org.netbeans.modules.form.compat2.layouts.DesignCardLayout$CardConstraintsDescription">
+          <CardConstraints cardName="card10"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace pref="94" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblKullaniciId" min="-2" pref="93" max="-2" attributes="0"/>
+                      <Component id="lblSifre" min="-2" pref="73" max="-2" attributes="0"/>
+                      <Component id="lblSifre1" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                      <Component id="btnGiris" min="-2" pref="93" max="-2" attributes="0"/>
+                      <Component id="lblSifre2" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="txtKullaniciAdi" min="-2" pref="127" max="-2" attributes="0"/>
+                              <Component id="txtSifre" min="-2" pref="127" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="lblidDurum" pref="157" max="32767" attributes="0"/>
+                              <Component id="lblSifreDurum" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="btnKullaniciEkle" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="cbMuzayedeler" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtPortNum" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="33" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblKullaniciId" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                          <Component id="txtKullaniciAdi" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="lblidDurum" min="-2" pref="28" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="txtSifre" min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="lblSifreDurum" min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="lblSifre" alignment="0" min="-2" pref="28" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblSifre1" min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="txtPortNum" alignment="0" min="-2" pref="28" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblSifre2" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="cbMuzayedeler" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="btnGiris" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnKullaniciEkle" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="64" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblSifre">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&#x15e;ifre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblKullaniciId">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kullan&#x131;c&#x131; Ad&#x131;:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtKullaniciAdi">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtSifre">
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSifreDurum">
+        </Component>
+        <Component class="javax.swing.JButton" name="btnKullaniciEkle">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kullan&#x131;c&#x131; Ekle"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnKullaniciEkleActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnGiris">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Giris"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnGirisActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblidDurum">
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSifre1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Port Num."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtPortNum">
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSifre2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="M&#xfc;zayedeler"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="cbMuzayedeler">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="1">
+                <StringItem index="0" value="L&#xfc;tfen Bir M&#xfc;zayede Se&#xe7;iniz"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="546" max="32767" attributes="0"/>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="PanelKullaniciEkle" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="312" max="32767" attributes="0"/>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="PanelKullaniciEkle" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="PanelKullaniciEkle">
+      <Properties>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Default Cursor"/>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lblKullaniciAdiEkle" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblEmailEkle" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="txtEmailKayit" alignment="0" pref="100" max="32767" attributes="0"/>
+                              <Component id="txtKullaniciAdiKayit" alignment="0" pref="100" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="0" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lblSifreEkle" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblButceEkle" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="txtButceKayit" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="btnGeri" min="-2" pref="77" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="txtSifreKayit" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="btnKaydet" min="-2" pref="77" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="134" max="-2" attributes="0"/>
+                          <Component id="lblBilgiGiriniz" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="lblBilgiGiriniz" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblKullaniciAdiEkle" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtKullaniciAdiKayit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblSifreEkle" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtSifreKayit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnKaydet" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtEmailKayit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblEmailEkle" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtButceKayit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblButceEkle" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnGeri" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="134" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblBilgiGiriniz">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="L&#xfc;tfen Bilgileri Uygun &#x15e;ekilde Giriniz"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblKullaniciAdiEkle">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kullan&#x131;c&#x131; Ad&#x131; :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSifreEkle">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&#x15e;ifre:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEmailEkle">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="E-Mail :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblButceEkle">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="B&#xfc;t&#xe7;e :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtKullaniciAdiKayit">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtSifreKayit">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtEmailKayit">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtButceKayit">
+        </Component>
+        <Component class="javax.swing.JButton" name="btnKaydet">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kaydet"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnKaydetActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnGeri">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Geri"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnGeriActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
